@@ -24,6 +24,11 @@ I'm dedicated to building robust test suites, automation pipelines, and continuo
 2. **Automating Ecommerce Store**
    - Description: Automating an eCommerce store using Selenium WebDriver and Java. The project employs the TestNG unit test framework, log4j for logging, and Extent Reports for detailed and visual reporting.
    - Repository: [ecommerce-store-automation](https://github.com/aljozy/MyStoreProject)
+  
+
+3. **AWS Resource Tracking Utility Script**
+   - Description: An intuitive shell script designed to simplify the monitoring and tracking of various AWS resources, including S3 buckets, EC2 instances, Lambda functions, and IAM users. Gain real-time insights into your AWS infrastructure effortlessly.
+   - Repository: [AWS-Resource-Tracker](https://github.com/aljozy/shellscripts)
 
 ## Connect with Me
 
