@@ -17,8 +17,13 @@ I'm dedicated to building robust test suites, automation pipelines, and continuo
 
 ## Current Projects
 
-- 🛠️ [Project Name 1](link-to-repo): Description of the project.
-- 🛠️ [Project Name 2](link-to-repo): Description of the project.
+1. **Automating Ecommerce API**
+   - Description: Automating an eCommerce API using RestAssured with a BDD framework based on Cucumber and TestNG. The project includes comprehensive logs and reporting for enhanced visibility.
+   - Repository: [ecommerce-api-automation](https://github.com/aljozy/restAssuredEcommerceApi)
+
+2. **Automating Ecommerce Store**
+   - Description: Automating an eCommerce store using Selenium WebDriver and Java. The project employs the TestNG unit test framework, log4j for logging, and Extent Reports for detailed and visual reporting.
+   - Repository: [ecommerce-store-automation](https://www.linkedin.com/in/aljozy)
 
 ## Connect with Me
 
@@ -27,4 +32,4 @@ I'm dedicated to building robust test suites, automation pipelines, and continuo
 
 Feel free to reach out if you're interested in collaboration, discussing testing methodologies, or exploring new ideas!
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aljozy&show_icons=true)
+<!--![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aljozy&show_icons=true)-->
