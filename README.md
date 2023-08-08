@@ -23,7 +23,7 @@ I'm dedicated to building robust test suites, automation pipelines, and continuo
 
 2. **Automating Ecommerce Store**
    - Description: Automating an eCommerce store using Selenium WebDriver and Java. The project employs the TestNG unit test framework, log4j for logging, and Extent Reports for detailed and visual reporting.
-   - Repository: [ecommerce-store-automation](https://www.linkedin.com/in/aljozy)
+   - Repository: [ecommerce-store-automation](https://github.com/aljozy/MyStoreProject)
 
 ## Connect with Me
 
